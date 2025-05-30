@@ -22,13 +22,6 @@ CoachGPT is an AI-powered productivity coach designed to help users track tasks,
 
 ---
 
-## Demo
-
-Try the live demo here:  
-👉 [CoachGPT Demo](https://claude.ai/public/artifacts/3b132180-e949-45b7-a6f7-94723e64401c)
-
----
-
 ## Tech Stack
 
 - **Language Model:** GPT-4 (OpenAI)  
